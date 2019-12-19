@@ -1,0 +1,16 @@
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\bin\Debug\dicci.exe.config
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\bin\Debug\dicci.exe
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\bin\Debug\dicci.pdb
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\bin\Debug\dicci.xml
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\obj\Debug\dicci.vbprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\obj\Debug\dicci.Form1.resources
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\obj\Debug\dicci.Resources.resources
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\obj\Debug\dicci.vbproj.GenerateResource.cache
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\obj\Debug\dicci.exe
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\obj\Debug\dicci.xml
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\obj\Debug\dicci.pdb
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\obj\Debug\dicci.vbproj.CopyComplete
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\obj\Debug\dicci.Form2.resources
+C:\Users\erick\OneDrive\Documentos\Visual\dicci\dicci\obj\Debug\dicci.Form3.resources
